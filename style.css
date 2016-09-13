@@ -1,0 +1,65 @@
+h1{
+	
+}
+
+body{
+	background-color:gray;
+}
+
+#contener{
+	height:100%;
+	width:100%;
+}
+
+#logo{
+	height:11%;
+	padding:2%;
+	width:96%;
+	background-color:#66FF00;
+}
+
+#menuL{
+	height:75%;
+	width:15%;
+	float:left;
+}
+
+.menuLL{
+	color:#ffffff;
+	padding:5%;
+	background-color:gray;
+	border-width:5px;
+    border-style:dashed;
+}
+
+.menuLL:hover{
+	color:#000000;
+	padding:5%;
+	background-color:#FF6600;
+}
+
+#g{
+	float:left;
+	width:60%;
+	padding:5%
+	
+}
+
+#lewa{
+	float:left;
+	width:11%;
+	padding:2%;
+	background-color:#FF6600;
+	height:70%;
+}
+
+#stopka{
+	width:96%;
+	height:1%;
+	padding:2%;
+	background-color:#66FF00;
+}
+
+a{
+	text-decoration: none;
+}
